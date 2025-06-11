@@ -330,7 +330,7 @@ async def handle_message(message: Message, state: FSMContext):
             "Пусть смех и радость не покидают вас!"
         ]
         wish = random.choice(wishes)
-        await message.answer(f"💕 Пмисиарочка: {mention1} и {mention2}. {wish}",
+        await message.answer(f"💕 Парочка: {mention1} и {mention2}. {wish}",
                              parse_mode=ParseMode.MARKDOWN)
 
     elif text == "предсказание":
