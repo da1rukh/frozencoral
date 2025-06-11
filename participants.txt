@@ -1,0 +1,12 @@
+Chat: -1002629246104, User: 1693165490, Name: @RookingIt, Action: message
+Chat: -1002629246104, User: 5919117336, Name: @s0Ck1x, Action: reaction
+Chat: -1002629246104, User: 1693165490, Name: @RookingIt, Action: message
+Chat: -1002629246104, User: 2077615238, Name: @FANrobloxx, Action: message
+Chat: -1002629246104, User: 7079785133, Name: @CDarchivess, Action: message
+Chat: -1002629246104, User: 6926067203, Name: @Bald_elliot, Action: message
+Chat: -1002629246104, User: 5947724689, Name: @Catjojojo, Action: message
+Chat: -1002629246104, User: 1848159679, Name: @Pypsik2348, Action: message
+Chat: -1002629246104, User: 1803700590, Name: @Red_Noob, Action: message
+Chat: -1002629246104, User: 7716159744, Name: @FrozenCoral_bot, Action: message
+Chat: -1002629246104, User: 5226378684, Name: @iris_dp_bot, Action: message
+Chat: -1002629246104, User: 8032258945, Name: @vityavictor_bot, Action: message
